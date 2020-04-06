@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mparticle:android-appboy-kit:5.12.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3e2c6021b2da92156e2f535f62f5f57/jetified-android-appboy-kit-5.12.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3e2c6021b2da92156e2f535f62f5f57/jetified-android-appboy-kit-5.12.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

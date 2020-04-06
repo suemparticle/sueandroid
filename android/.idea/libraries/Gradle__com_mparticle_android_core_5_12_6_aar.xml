@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mparticle:android-core:5.12.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cd8241433d09c09733f8bc97a34bcea/jetified-android-core-5.12.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cd8241433d09c09733f8bc97a34bcea/jetified-android-core-5.12.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

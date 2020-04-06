@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mparticle:android-urbanairship-kit:5.12.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865261c1e36b8d7a6991abfc46ad70ff/jetified-android-urbanairship-kit-5.12.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/865261c1e36b8d7a6991abfc46ad70ff/jetified-android-urbanairship-kit-5.12.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

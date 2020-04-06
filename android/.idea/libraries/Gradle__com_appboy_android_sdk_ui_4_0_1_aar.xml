@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appboy:android-sdk-ui:4.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e972e37d3039ed0d6b147a88a6916433/jetified-android-sdk-ui-4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e972e37d3039ed0d6b147a88a6916433/jetified-android-sdk-ui-4.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appboy/android-sdk-ui/4.0.1/1c70417b44d8841b859c6fa53b5f574fa809771f/android-sdk-ui-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.appboy/android-sdk-ui/4.0.1/8f41fa03d179abc5ce02b924a477846a5cb1cc67/android-sdk-ui-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
